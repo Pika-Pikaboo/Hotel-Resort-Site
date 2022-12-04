@@ -19,7 +19,7 @@ const Options = () => {
 					<div className="basis-[460px] rounded-lg overflow-hidden shadow-lg flex flex-col">
 						<div className="relative">
 							<img src="place2.jpg" alt="picture-two" className="max-w-full"/>
-							<p className="absolute top-3 left-4 text-white font-semibold text-xl">Warwick Hotels & Resorts</p>
+							<p className="absolute top-3 left-4 text-white font-semibold text-xl">Warwick Hotels</p>
 							<span className="absolute right-10 top-3 text-2xl text-amber-300 rounded-full"><i className="fa-solid fa-bolt"></i></span>
 						</div>
 						<div className="bg-white flex-auto py-10 px-6 [&>*]:leading-loose [&>*]:font-medium [&>*]:text-xl">

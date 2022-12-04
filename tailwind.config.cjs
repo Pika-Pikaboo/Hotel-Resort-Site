@@ -16,7 +16,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        "intro-image": "url(coconut-trees.jpg)",
+        "intro-image": "url('https://i.postimg.cc/qvvqxtMR/pexels-asad-photo-maldives-1591375.jpg')",
       },
       gridTemplateAreas: {
         'layout': [
