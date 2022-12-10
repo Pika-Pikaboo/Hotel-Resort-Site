@@ -5,7 +5,9 @@ const Navbar = () => {
       className="flex justify-between px-32 py-6 bg-white items-center [&>*]:text-xl [&>*]:font-semibold lg:hidden"
     >
       <span>
-        <a href="#home">MARNstudio</a>
+        <a href="#home" className="text-2xl font-bold text-cyan-500">
+          MARNstudio
+        </a>
       </span>
       <div className="flex justify-evenly text-center w-[600px] hover:[&>*]:bg-sky-100/70 [&>a]:p-3 [&>*]:rounded-lg">
         <a href="#home">Home</a>
