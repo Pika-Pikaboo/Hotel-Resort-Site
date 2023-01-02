@@ -2,7 +2,7 @@ import React from "react";
 
 const Airlines = () => {
   return (
-    <div className="w-full min-h-[600px] flex justify-center xl:justify-start items-center">
+    <div className="w-full min-h-[600px] flex justify-center xl:justify-start items-center" id="contact">
       <div className="container w-full h-96 bg-sky-100/70 flex justify-center items-center">
         <div className="w-3/4 rounded-lg bg-white flex xl:flex-col xl:shadow-lg">
           <div className="flex flex-col space-y-6 basis-1/2 p-10 xl:p-2">

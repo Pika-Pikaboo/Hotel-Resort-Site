@@ -1,6 +1,6 @@
 const Resort = () => {
   return (
-    <div className="w-[calc(100%-260px)] xl:w-[calc(100%-130px)] lg:w-[calc(100%-16px)] mx-auto min-h-[800px] flex flex-wrap gap-x-4 items-center justify-center 2xl:mb-[8rem]">
+    <div className="w-[calc(100%-260px)] xl:w-[calc(100%-130px)] lg:w-[calc(100%-16px)] mx-auto min-h-[800px] flex flex-wrap gap-x-4 items-center justify-center 2xl:mb-[8rem]" id="services">
       <div className="left max-w-[500px] flex flex-col space-y-6">
         <h1 className="text-5xl font-semibold">Resort Surprises</h1>
         <p className="text-base font-medium">

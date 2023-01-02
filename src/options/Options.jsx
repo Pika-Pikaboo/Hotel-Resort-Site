@@ -1,6 +1,6 @@
 const Options = () => {
   return (
-    <div className="w-[calc(100%-260px)] xl:w-[calc(100%-130px)] mx-auto my-24 relative z-10">
+    <div className="w-[calc(100%-260px)] xl:w-[calc(100%-130px)] mx-auto my-24 relative z-10" id="about">
       <h1 className="text-center w-full font-semibold text-5xl mb-12">
         Entire city of choice
       </h1>
